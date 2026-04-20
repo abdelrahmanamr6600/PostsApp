@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="users_list">Users List</string>
+    <string name="user_detail">User Detail</string>
+    <string name="user_name">User Name</string>
+    <string name="user_image">User Image</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading_users">Error loading users. Please try again.</string>
+    <string name="user_posts">User Posts</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_body">Post Body</string>
+    <string name="post_detail">Post Detail</string>
+    <string name="error_loading_posts">Error loading posts. Please try again.</string>
+    <string name="no_posts_available">No posts available</string>
+</resources>
