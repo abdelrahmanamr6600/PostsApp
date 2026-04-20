@@ -141,55 +141,23 @@ Posts/
 
 ## 📸 Screenshots
 
-Screenshots can be added to this README to showcase the app's UI. Here's how to include them:
-
-### To Add Screenshots:
-
-1. **Create a `screenshots` folder** in your project root:
-   ```bash
-   mkdir screenshots
-   ```
-
-2. **Add your screenshots** to this folder (PNG, JPG, or GIF format)
-
-3. **Link them in this README** using one of the following formats:
-
-#### Option 1: Side-by-side layout
-```markdown
-| Screen | Description |
-|--------|-------------|
-| ![Main Screen](screenshots/main_screen.png) | Display list of users |
-| ![User Details](screenshots/user_details.png) | User profile and posts |
-| ![Post Details](screenshots/post_details.png) | Full post with comments |
-```
-
-#### Option 2: Individual sections
-```markdown
-### Main Screen
-![Main Screen](screenshots/main_screen.png)
-*List of all users with loading and error states*
-
-### User Details
-![User Details](screenshots/user_details.png)
-*User profile with image and posts list*
-
-### Post Details
-![Post Details](screenshots/post_details.png)
-*Post with comments and detailed information*
-```
-
-#### Option 3: Carousel style
-```markdown
-## App Screens
+### App Screens
 
 <div align="center">
-  <img src="screenshots/main_screen.png" width="200" alt="Main Screen" />
-  <img src="screenshots/user_details.png" width="200" alt="User Details" />
-  <img src="screenshots/post_details.png" width="200" alt="Post Details" />
+  <img src="screenshots/main_screen.png" width="250" alt="Main Screen - Users List" />
+  <img src="screenshots/user_details.png" width="250" alt="User Details - Profile & Posts" />
+  <img src="screenshots/post_details.png" width="250" alt="Post Details - Comments" />
 </div>
-```
 
-### Current UI Screens:
+### Screen Descriptions
+
+| Screen | Description |
+|--------|-------------|
+| **Main Screen** | Browse all users in a RecyclerView with loading and error states |
+| **User Details** | View user profile with image and total posts statistics |
+| **Post Details** | Full post information with comments section and user details |
+
+### Features Demonstrated
 
 1. **MainActivity** - User List Screen
    - RecyclerView displaying all users
@@ -367,4 +335,3 @@ For any inquiries or feedback, please reach out to [your-email@example.com](mail
 ---
 
 **Made with ❤️ using Kotlin and Android Jetpack**
-
