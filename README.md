@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For any inquiries or feedback, please reach out to [abdelrahman.amr@intercom.com.eg](mailto:your-email@example.com)
 
 ---
 
