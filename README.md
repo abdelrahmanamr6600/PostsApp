@@ -1,3 +1,7 @@
+
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue)
+![Architecture](https://img.shields.io/badge/Architecture-MVVM-green)
+![API](https://img.shields.io/badge/API-Retrofit-orange)
 # Posts App 📱
 
 A modern Android application for browsing users, their posts, and post comments with a clean architecture and Material Design 3 UI.
